@@ -4,6 +4,7 @@ var
   i, j, k: integer;
 
 begin
+  writeln('Hello, from github');
   for i := 1 to 9 do
     for j := 0 to 9 do
       for k := 0 to 9 do
